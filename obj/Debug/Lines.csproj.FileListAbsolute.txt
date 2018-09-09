@@ -1,0 +1,28 @@
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\obj\Debug\Lines.csproj.CoreCompileInputs.cache
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\bin\Debug\Lines.exe.config
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\bin\Debug\Lines.exe
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\bin\Debug\Lines.pdb
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\obj\Debug\Lines.exe
+C:\Users\Roman Kameniev\source\repos\Lines\Lines\obj\Debug\Lines.pdb
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\bin\Debug\Lines.exe.config
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\bin\Debug\Lines.exe
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\bin\Debug\Lines.pdb
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\obj\Debug\Lines.csprojResolveAssemblyReference.cache
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\obj\Debug\Lines.csproj.CoreCompileInputs.cache
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\obj\Debug\Lines.exe
+C:\Users\Roman Kameniev\source\repos\Lines - Copy\Lines\obj\Debug\Lines.pdb
+C:\Users\roman\OneDrive\Документы\Lines\Lines\bin\Debug\Lines.exe.config
+C:\Users\roman\OneDrive\Документы\Lines\Lines\bin\Debug\Lines.exe
+C:\Users\roman\OneDrive\Документы\Lines\Lines\bin\Debug\Lines.pdb
+C:\Users\roman\OneDrive\Документы\Lines\Lines\obj\Debug\Lines.csprojAssemblyReference.cache
+C:\Users\roman\OneDrive\Документы\Lines\Lines\obj\Debug\Lines.csproj.CoreCompileInputs.cache
+C:\Users\roman\OneDrive\Документы\Lines\Lines\obj\Debug\Lines.exe
+C:\Users\roman\OneDrive\Документы\Lines\Lines\obj\Debug\Lines.pdb
+C:\Users\roman\Videos\Lines\Lines\bin\Debug\Lines.exe.config
+C:\Users\roman\Videos\Lines\Lines\bin\Debug\Lines.exe
+C:\Users\roman\Videos\Lines\Lines\bin\Debug\Lines.pdb
+C:\Users\roman\Videos\Lines\Lines\obj\Debug\Lines.csprojAssemblyReference.cache
+C:\Users\roman\Videos\Lines\Lines\obj\Debug\Lines.csproj.CoreCompileInputs.cache
+C:\Users\roman\Videos\Lines\Lines\obj\Debug\Lines.exe
+C:\Users\roman\Videos\Lines\Lines\obj\Debug\Lines.pdb
